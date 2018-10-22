@@ -2,7 +2,7 @@
 # @Time    : 2018/10/16 18:18
 # @Author  : XuWenzhong
 # @Email   : xuwenzhong1994@163.com
-# @File    : Day 3_Multiple_Linear_Regression.py
+# @File    : 03_Multiple_Linear_Regression.py
 # @Version : 1.0.1
 # @Software: PyCharm
 # @Description:多元线性回归实现

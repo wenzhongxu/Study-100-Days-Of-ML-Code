@@ -2,7 +2,7 @@
 # @Time    : 2018/10/16 17:01
 # @Author  : XuWenzhong
 # @Email   : xuwenzhong1994@163.com
-# @File    : Day 2_Simple_Linear_Regression.py
+# @File    : 02_Simple_Linear_Regression.py
 # @Version : 1.0.1
 # @Software: PyCharm
 # @Description:简单线性回归实现
